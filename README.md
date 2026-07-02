@@ -28,22 +28,12 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 Моя статистика:
-
-![Статистика](https://github-readme-stats.vercel.app/api?username=justWestl3y&show_icons=true&theme=radical)
-
----
-
 ## 🚀 Мои проекты:
 
-*   **[AwsmCoders](ссылка_на_твой_сайт_на_vercel)** — Сайт-визитка для моей команды разработчиков.
-*   **[Название_другого_проекта](ссылка_на_репозиторий)** — Краткое описание.
+*   **[AwsmCoders](https://awsmcoders-site.vercel.app/index.html)** — Сайт-визитка для моей команды разработчиков.
 
 ---
 
 ## 📫 Как со мной связаться:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](ссылка_на_твой_телеграм)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ссылка_на_твой_linkedin)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@highsoulexistence)
