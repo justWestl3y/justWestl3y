@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **justWestl3y/justWestl3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Мои проекты:
 
-*   **[AwsmCoders](https://awsmcoders-site.vercel.app/index.html)** — Сайт-визитка для моей команды разработчиков.
+*   **[AwsmCoders](https://awsmcoders-site.vercel.app/index.html)** - Сайт-визитка для моей команды разработчиков.
 
 ---
 
